@@ -4,6 +4,9 @@
 
 Unified  Semantic and Acoustic Codec  for Audio Language Model.
 
+# X-Codec-2.0 released!
+
+
 # Paper 
  
 
