@@ -1,0 +1,5 @@
+*__pycache__*
+test_audio/
+test_audio_reconstruction/
+xcodec.egg-info/
+speech_ckpt/
